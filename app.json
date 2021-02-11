@@ -1,0 +1,12 @@
+{
+  "name": "reactNativeCrudFirebase",
+  "displayName": "reactNativeCrudFirebase",
+  "expo": {
+    "name": "reactNativeCrudFirebase",
+    "slug": "reactNativeCrudFirebase",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
